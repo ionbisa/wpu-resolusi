@@ -4,3 +4,10 @@ WPU RESOLUSI
 - BELAJAR FRAMEWORK 
 - BELAJAR MEMBUAT ANDROID
 - SOFTWARE ENGINEER
+- CYBER SECURITY
+  * Python
+  * PHP
+  * JavaScript
+  * C++
+  * Linux
+  * Networikng
